@@ -42,7 +42,25 @@
     // // else
     // //    printf("\n%f is Greater", num3);
        
+    /*
 
+        System.out.println("Enter 3 numbers:");
+        int a=sc.nextInt();
+        int b=sc.nextInt();
+        int c=sc.nextInt();
+
+        int max=a;
+
+        if(b>max){
+            max=b;
+        }
+        if(c>max){
+            max=c;
+        }
+
+        System.out.println("max value "+max);
+
+*/
 
 
     }
