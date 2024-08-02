@@ -13,4 +13,6 @@ The repository is structured based on different topics, with each topic having i
 
  04_Loops
 
+ 05_functions
+
  
