@@ -1,4 +1,5 @@
-Java , Questions This repository contains a collection of programming questions and solutions in the language Java.
+Java Programming Questions
+This repository contains a collection of programming questions and solutions in the C programming langua This repository contains a collection of programming questions and solutions in the language Java.
 
 Data Structures
 
