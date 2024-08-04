@@ -17,6 +17,6 @@ The repository is structured based on different topics, with each topic having i
 
  05_switch_case
 
- 05_Functions
+ 06_Functions
 
  
